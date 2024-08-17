@@ -64,13 +64,13 @@ Parent:
 
 Teacher:
 ---------------------------------------------------------------------------------
-<img width="914" alt="image" src="https://github.com/user-attachments/assets/7f486190-2417-47a1-87da-4cd50e0c6a7e">
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/7f486190-2417-47a1-87da-4cd50e0c6a7e">
 ---------------------------------------------------------------------------------
-<img width="905" alt="image" src="https://github.com/user-attachments/assets/2b65c013-fa84-4b31-9293-5a4b7e6d9c52">
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/2b65c013-fa84-4b31-9293-5a4b7e6d9c52">
 ---------------------------------------------------------------------------------
-<img width="905" alt="image" src="https://github.com/user-attachments/assets/431dba1b-33c8-4221-8840-d53fef39f62b">
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/431dba1b-33c8-4221-8840-d53fef39f62b">
 ---------------------------------------------------------------------------------
-<img width="905" alt="image" src="https://github.com/user-attachments/assets/a9514191-d452-46cc-95f4-a629eb9919b3">
+<img width="1280" alt="image" src="https://github.com/user-attachments/assets/a9514191-d452-46cc-95f4-a629eb9919b3">
 ---------------------------------------------------------------------------------
 
 
